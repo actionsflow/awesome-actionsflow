@@ -8,8 +8,10 @@ This is a list of awesome workflow use cases for [Actionsflow](https://github.co
 
 ## Contents
 
-- [Collections](#workflow-collections)
+- [Workflow Collections](#workflow-collections)
 - [Workflows](#workflows)
+- [Triggers](#triggers)
+- [Actions](#actions)
 
 ## Workflow Collections
 
