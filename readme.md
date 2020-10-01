@@ -14,6 +14,7 @@ This is a list of awesome workflow use cases for [Actionsflow](https://github.co
 - [Actions](#actions)
 - [Workflows](#workflows)
 - [Articles](#articles)
+- [Communities](#communities)
 
 ## Learn
 
@@ -43,6 +44,10 @@ See [Awesome Actions List for Actionsflow](https://actionsflow.github.io/docs/ac
 ## Articles
 
 - [Compare Actionsflow with Zapier & IFTTT](https://actionsflow.github.io/docs/compare/) - Compare Actionsflow with Zapier & IFTTT
+
+## Communities
+
+- [Join Actionsflow Slack](https://join.slack.com/t/actionsflow/shared_invite/zt-h5tmw9cn-GbZ4fzU_vc_qB~nnS_2Lvg) - Communicate with the other users at Slack
 
 
 ## Contribute
