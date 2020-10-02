@@ -43,7 +43,7 @@ See [Awesome Actions List for Actionsflow](https://actionsflow.github.io/docs/ac
 - [Send a IFTTT webhook request when a npm package update](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/npm2ifttt.yml)
 - [Collect new Typeform responses to send a discord message](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/typeform2discord.yml)
 - [A Complex workflow example with poll trigger](https://github.com/actionsflow/actionsflow/blob/master/examples/actionsflow-workflow-example/workflows/complex.yml)
-- [Send a faceebook message when received an email](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/email2faceebook.yml)
+- [Send a facebook message when received an email](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/email2faceebook.yml)
 
 ## Articles
 
