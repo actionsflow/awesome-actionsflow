@@ -13,6 +13,7 @@ This is a list of awesome workflow use cases for [Actionsflow](https://github.co
 - [Triggers](#triggers)
 - [Actions](#actions)
 - [Workflows](#workflows)
+- [Starters](#starters)
 - [Articles](#articles)
 - [Communities](#communities)
 
@@ -46,6 +47,10 @@ See [Awesome Actions List for Actionsflow](https://actionsflow.github.io/docs/ac
 - [Send a facebook message when received an email](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/email2faceebook.yml)
 - [Send a slack message when received a hacker news comments](https://github.com/actionsflow/workflow-for-actionsflow/blob/main/workflows/hackernews2slack.yml)
 - [Send a slack message when a new version on npm](https://github.com/actionsflow/workflow-for-actionsflow/blob/main/workflows/npm2slack.yml)
+
+## Starters
+
+- [actionsflow/actionsflow-workflow-default](https://github.com/actionsflow/actionsflow-workflow-default) - The Actionsflow official workflow starter
 
 ## Articles
 
