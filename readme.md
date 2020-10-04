@@ -26,7 +26,7 @@ This is a list of awesome workflow use cases for [Actionsflow](https://github.co
 
 ## Workflow Collections
 
-- [Official Simple Examples](https://github.com/actionsflow/actionsflow/tree/master/examples/actionsflow-workflow-example/workflows) - This is a collection of workflow examples from official, it includes all official triggers' use cases.
+- [Official Simple Examples](https://github.com/actionsflow/actionsflow/tree/main/examples/actionsflow-workflow-example/workflows) - This is a collection of workflow examples from official, it includes all official triggers' use cases.
 
 ## Triggers
 
@@ -43,7 +43,7 @@ See [Awesome Actions List for Actionsflow](https://actionsflow.github.io/docs/ac
 - [Send a slack message when a new tweet by some user](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/twitter2slack.yml)
 - [Send a IFTTT webhook request when a npm package update](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/npm2ifttt.yml)
 - [Collect new Typeform responses to send a discord message](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/typeform2discord.yml)
-- [A Complex workflow example with poll trigger](https://github.com/actionsflow/actionsflow/blob/master/examples/actionsflow-workflow-example/workflows/complex.yml)
+- [A Complex workflow example with poll trigger](https://github.com/actionsflow/actionsflow/blob/main/examples/actionsflow-workflow-example/workflows/complex.yml)
 - [Send a facebook message when received an email](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/email2faceebook.yml)
 - [Send a slack message when received a hacker news comments](https://github.com/actionsflow/workflow-for-actionsflow/blob/main/workflows/hackernews2slack.yml)
 - [Send a slack message when a new version on npm](https://github.com/actionsflow/workflow-for-actionsflow/blob/main/workflows/npm2slack.yml)
