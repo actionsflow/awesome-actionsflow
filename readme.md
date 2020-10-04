@@ -47,6 +47,7 @@ See [Awesome Actions List for Actionsflow](https://actionsflow.github.io/docs/ac
 - [Send a facebook message when received an email](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/email2faceebook.yml)
 - [Send a slack message when received a hacker news comments](https://github.com/actionsflow/workflow-for-actionsflow/blob/main/workflows/hackernews2slack.yml)
 - [Send a slack message when a new version on npm](https://github.com/actionsflow/workflow-for-actionsflow/blob/main/workflows/npm2slack.yml)
+- [ Send email new RSS Feed items](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/rss2email.yml)
 
 ## Starters
 
