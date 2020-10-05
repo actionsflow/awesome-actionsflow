@@ -57,6 +57,7 @@ See [Awesome Actions List for Actionsflow](https://actionsflow.github.io/docs/ac
 ## Articles
 
 - [Compare Actionsflow with Zapier & IFTTT](https://actionsflow.github.io/docs/compare/) - Compare Actionsflow with Zapier & IFTTT
+- [Similar or Complimentary to Huginn](https://github.com/huginn/huginn/wiki/Similar-or-Complimentary-to-Huginn) - A wiki about things worked with Huginn, you can make Actionsflow work with them
 
 ## Communities
 
