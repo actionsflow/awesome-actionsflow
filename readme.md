@@ -40,6 +40,7 @@ See [Awesome Actions List for Actionsflow](https://actionsflow.github.io/docs/ac
 
 - [Tweet new RSS Feed items	](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/rss2twitter.yml)
 - [Send a telegram message when new hot subreddit](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/reddit2telegram.yml)
+- [Send a webhook when receive a telegram message](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/telegram2webhook.yml)
 - [Send a slack message when a new tweet by some user](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/twitter2slack.yml)
 - [Send a IFTTT webhook request when a npm package update](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/npm2ifttt.yml)
 - [Collect new Typeform responses to send a discord message](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/typeform2discord.yml)
