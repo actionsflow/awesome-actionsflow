@@ -38,18 +38,21 @@ See [Awesome Actions List for Actionsflow](https://actionsflow.github.io/docs/ac
 
 ## Workflows
 
-- [Tweet new RSS Feed items	](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/rss2twitter.yml)
-- [Send a telegram message when new hot subreddit](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/reddit2telegram.yml)
-- [Send a webhook when receive a telegram message](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/telegram2webhook.yml)
-- [Send a slack message when a new tweet by some user](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/twitter2slack.yml)
-- [Send a IFTTT webhook request when a npm package update](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/npm2ifttt.yml)
-- [Collect new Typeform responses to send a discord message](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/typeform2discord.yml)
 - [A Complex workflow example with poll trigger](https://github.com/actionsflow/actionsflow/blob/main/examples/actionsflow-workflow-example/workflows/complex.yml)
+- [Collect new Typeform responses to send a discord message](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/typeform2discord.yml)
 - [Send a facebook message when received an email](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/email2faceebook.yml)
+- [Send a IFTTT webhook request when a npm package update](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/npm2ifttt.yml)
+- [Send a slack message when a new tweet by some user](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/twitter2slack.yml)
 - [Send a slack message when received a hacker news comments](https://github.com/actionsflow/workflow-for-actionsflow/blob/main/workflows/hackernews2slack.yml)
 - [Send a slack message when a new version on npm](https://github.com/actionsflow/workflow-for-actionsflow/blob/main/workflows/npm2slack.yml)
-- [Send email new RSS Feed items](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/rss2email.yml)
+- [Send a telegram message when new hot subreddit](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/reddit2telegram.yml)
 - [Send a telegram message when new Youtube videos update](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/youtube2telegram.yml)
+- [Send a telegram message abount today's weather every morning](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/every-day-weather.yml)
+- [Send a telegram message when it rains today](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/telegram-when-rain.yml)
+- [Send a webhook when receive a telegram message](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/telegram2webhook.yml)
+- [Send emails new RSS Feed items](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/rss2email.yml)
+- [Tweet new RSS Feed items	](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/rss2twitter.yml)
+
 
 ## Starters
 
