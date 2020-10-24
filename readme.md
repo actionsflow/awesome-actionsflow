@@ -42,6 +42,7 @@ See [Awesome Actions List for Actionsflow](https://actionsflow.github.io/docs/ac
 - [Collect new Typeform responses to send a discord message](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/typeform2discord.yml)
 - [Send a daily digest telegram message about today's hot reddit posts](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/daily-reddit-hot-digest-to-telegram.yml)
 - [Send a facebook message when received an email](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/email2faceebook.yml)
+- [Send a HTTP Request when new RSS item is detected](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/rss2request.yml)
 - [Send a IFTTT webhook request when a npm package update](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/npm2ifttt.yml)
 - [Send a slack message when a new tweet by some user](https://github.com/actionsflow/actionsflow-workflows/blob/main/workflows/twitter2slack.yml)
 - [Send a slack message when received a hacker news comments](https://github.com/actionsflow/workflow-for-actionsflow/blob/main/workflows/hackernews2slack.yml)
