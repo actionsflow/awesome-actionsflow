@@ -23,7 +23,7 @@ This is a list of awesome workflow use cases for [Actionsflow](https://github.co
 - [Actionsflow Workflow Syntax](https://actionsflow.github.io/docs/workflow/) - Learn how to write an Actionsflow workflow file.
 - [Getting Started with Actionsflow](https://actionsflow.github.io/docs/getting-started/) - Get started with Actionsflow.
 - [How Actionsflow worked](https://actionsflow.github.io/docs/concepts/) - Learn Actionsflow Core Concepts.
-- [How to Creating  a Trigger of Actionsflow](https://actionsflow.github.io/docs/creating-triggers/) - Learn how to creating triggers.
+- [How to Create a Trigger of Actionsflow](https://actionsflow.github.io/docs/creating-triggers/) - Learn how to creating triggers.
 
 ## Workflow Collections
 
