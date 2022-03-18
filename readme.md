@@ -35,7 +35,9 @@ See [Triggers List](https://actionsflow.github.io/docs/triggers/)
 
 ## Actions
 
-See [Awesome Actions List for Actionsflow](https://actionsflow.github.io/docs/actions/)
+
+- [Awesome Actions List for Actionsflow](https://actionsflow.github.io/docs/actions/)
+- [Awesome Actions Repo](https://github.com/sdras/awesome-actions)
 
 ## Workflows
 
